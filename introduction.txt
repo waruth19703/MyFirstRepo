@@ -2,4 +2,5 @@ What I have learned from this course
 
 I have learned to code
 Ihave learned to fork the repository
+I have learned to write commands
 
