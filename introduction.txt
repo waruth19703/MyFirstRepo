@@ -1,4 +1,5 @@
-Brief Introduction About Myself
+What I have learned from this course
 
-I am Innocent doing pathway program
+I have learned to code
+Ihave learned to fork the repository
 
